@@ -9,6 +9,6 @@ function myFunction() {
         document.getElementById("error-messages").style.display = "block";
     } else {
         document.getElementById("error-messages").style.display = "none";
-        alert("Thef from is submitted");
     }
 }
+
